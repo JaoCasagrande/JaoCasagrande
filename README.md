@@ -1,16 +1,16 @@
-## Hi there 👋
+# SOBRE MIM 😎
+APAIXONADO POR TECNOLOGIA, AMANTE DE NOVAS DESCIBERTAS 
 
-<!--
-**JaoCasagrande/JaoCasagrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SONHOS ☁️
+ESTUDAR FORA E OBTER NOVAS OPORTUNIDADES 
 
-Here are some ideas to get you started:
+# OQUE ESTUDO? 📚
+ATUALMENTE ESTUDO NA ETEC RM INFORMÁTICA 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# COISAS QUE ME INTERESSO PESSOALMENTE
+
+JOGOS
+LER
+TECNOLOGIA 
+HARDWARE 
+SOFTWARE 
